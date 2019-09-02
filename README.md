@@ -1,13 +1,14 @@
 # Bank-Transactions-in-SQL
-This SQL project represents transactions code written in SQL codes.
-First we create the data for the customer Transactions,
-next we write codes to peform transactions on the datasets
+This project contains transactions code written in SQL.
+First, we create the data for customer transactions, and then we write code to perform transactions on the datasets.
 
 Project purpose
-The purpose of the project was to design a bank database of cutomer transaction and 
-to use the database in executing sql codes for common baning transactons.
-The transactions executed included; withdrawal, deposits inquiry, and transfer
+
+The purpose of the project was to design a bank database of customer transactions 
+and to use the database to execute SQL queries for common banking transactions. 
+The transactions executed included withdrawals, deposit inquiries, and transfers.
 
 Database development
-All codes for database and transaction were completed on Microsoft SQL Server Management Studio
+
+All database and transaction code was written on Microsoft SQL Server Management Studio.
 
